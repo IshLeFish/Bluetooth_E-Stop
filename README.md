@@ -1,4 +1,4 @@
-# Bluetooth_ALT_F4_Button
+# Bluetooth Emergency Stop Button
 An emergency stop button with the capability to ALT+F4, control a media key, or any other keyboard shortcut.
 The project uses an ESP-32 based microcontroller, running C++ (Arduino).
 
@@ -15,9 +15,9 @@ Simple code modification can enable the use of any currently supported Bluetooth
 
 
 BOM:
-- FireBeetle 2 ESP32-E                    
+- FireBeetle 2 ESP32-E (1)                    
 - Mini SPDT Toggle Switch (1)
-- 2000mAH LiPo Battery (1)
+- 2000mAh LiPo Battery (1)
 - Emergency Stop Mushroom Push Button Switch (1)
 - WS2812B RGB LED (1)
 - 3D Printed Enclosure Component (3)
